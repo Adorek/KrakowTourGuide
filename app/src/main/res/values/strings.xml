@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">Krakow Tour Guide</string>
+
+    <string name="museums">Museums</string>
+    <string name="mounds">Mounds</string>
+    <string name="parks">Parks</string>
+    <string name="nature">Nature</string>
+
+    <!--Museums details-->
+    <string name="national_museum_address">Address: Al. 3 Maja 1, 30-062 Kraków</string>
+    <string name="national_museum_name">National Museum</string>
+
+    <string name="historical_museum_address">Address: Rynek Główny 35, 31-011 Kraków</string>
+    <string name="historical_museum_name">Historical Museum</string>
+
+    <string name="cricoteka_museum_address">Address: Nadwiślańska 2-4, 30-527 Kraków</string>
+    <string name="cricoteka_museum_name">Cricoteka Museum</string>
+
+    <string name="shindlers_museum_address">Address: Lipowa 4, 30-702 Kraków</string>
+    <string name="shindlers_museum_name">Shindlers Factory Museum</string>
+
+
+    <!--Mounds details-->
+    <string name="kosciuszko_address">Address: al. Waszyngtona 1, 30-204 Kraków</string>
+    <string name="kosciuszko_name">Kosciuszko Mound</string>
+
+    <string name="pilsudski_address">Address: 30-001 Kraków</string>
+    <string name="pilsudski_name">Pilsudski\'s Mound</string>
+
+    <string name="kraka_address">Address: 30-543 Kraków</string>
+    <string name="kraka_name">Krakus Mound</string>
+
+    <string name="wandy_address">Address: 30-962 Kraków</string>
+    <string name="wandy_name">Wanda Mound</string>
+
+    <!--Nature details-->
+    <string name="botanic_address">Address: Mikołaja Kopernika 27, 31-501 Kraków</string>
+    <string name="botanic_name">Botanic Garden</string>
+
+    <string name="blonia_address">Address: aleja Focha</string>
+    <string name="blonia_name">Blonia</string>
+
+    <string name="zoo_address">Address: al. Kasy Oszczędności Miasta Krakowa 14, 30-232 Kraków</string>
+    <string name="zoo_name">Krakow Zoo</string>
+
+    <string name="bagry_address">Address: Lipska</string>
+    <string name="bagry_name">Bagry lake</string>
+
+
+    <!--Parks details-->
+    <string name="jordana_park_address">Address: aleja 3 Maja 11, 30-062 Kraków</string>
+    <string name="jordana_park_name">Jordana Park</string>
+
+    <string name="bednarski_park_address">Address: Jana Zamoyskiego, 33-332 Kraków</string>
+    <string name="bednarski_park_name">Bednarski Park</string>
+
+    <string name="krakowski_park_address">Address:  Zygmunta Augusta 7, 30-001 Kraków</string>
+    <string name="krakowski_park_name">Krakowski Park</string>
+
+    <string name="planty_park_address">Address: Planty, 30-001 Kraków</string>
+    <string name="planty_park_name">Planty Park</string>
+
+</resources>
